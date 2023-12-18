@@ -1,1 +1,1 @@
-https://github.com/StrannikMurat/alivio
+https://github.com/StrannikMurat/alivio.git
