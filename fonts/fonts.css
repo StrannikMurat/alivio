@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "avenirnextcyr bold";
+    font-weight: 900;
+    font-style: normal;
+    src: local("avenirnextcyr-bold"),
+         local("avenirnextcyr bold"),
+         local("avenirnextcyrbold"),
+         url("./fonts/avenirnextcyr-bold.woff2") format('woff2'),
+         url("./fonts/avenirnextcyr-bold.woff") format('woff'),
+         url("./fonts/avenirnextcyr-bold.ttf") format('ttf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Lato Bold";
+    font-weight: 700;
+    font-style: normal;
+    src: local("Lato-Bold"),
+         local("Lato Bold"),
+         local("LatoBold"),
+         url("./fonts/Lato-Bold.woff2") format('woff2'),
+         url("./fonts/Lato-Bold.woff") format('woff'),
+         url("./fonts/Lato-Bold.ttf") format('ttf');
+    font-display: swap;     
+}
+
+@font-face {
+    font-family: "Lato Regular";
+    font-weight: 500;
+    font-style: normal;
+    src: local("Lato Regular"),
+         local("Lato-Regular"),
+         local("LatoRegular"),
+         url("./fonts/Lato-Regular.woff2") format('woff2'),
+         url("./Lato-Regular.woff") format('woff'),
+         url("./Lato-Regular.ttf") format('ttf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Georgian Bold";
+    font-weight: 700;
+    font-style: normal;
+    src: local('NotoSerifGeorgianBold'),
+         local('Noto-Serif-Georgian-Bold'),
+         local('Noto Serif Georgia Bold'),
+         url("./NotoSerifGeorgian-Bold.woff2") format('woff2'),
+         url("./NotoSerifGeorgian-Bold.woff") format('woff'),
+         url("./NotoSerifGeorgian-Bold.ttf") format('ttf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Georgian Regular";
+    font-weight: 500;
+    font-style: normal;
+    src: local("Georgian Regular"),
+         local("GeorgianRegular"),
+         local("Georgian-Regular"),
+         url("./NotoSerifGeorgian-Regular.woff2") format('woff2'),
+         url("./NotoSerifGeorgian-Regular.woff") format('woff'),
+         url('./NotoSerifGeorgian-Regular.ttf') format('ttf');
+    font-display: swap;
+}
